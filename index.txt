@@ -1,0 +1,133 @@
+weatherio
+weatherio is a weather app made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = logo
+
+placeholder = Search city...
+
+<span class="m-icon">search</span>
+
+<span class="m-icon">arrow_back</span>
+
+<span class="m-icon">location_on</span>
+
+London
+
+State of London, GB
+
+<span class="m-icon icon">search</span>
+
+<span class="m-icon">my_location</span>
+
+Current Location
+
+
+
+#---------- CURRENT WEATHER ----------#
+
+Now
+
+25&deg;
+
+25°c
+
+Overcast Clouds
+
+<span class="m-icon">calendar_today</span>
+Thursday 16, Feb
+
+<span class="m-icon">location_on</span>
+London, GB
+
+
+
+#---------- HIGHLIGHTS ----------#
+
+Todays Highlights
+
+Air Quality Index
+
+<span class="m-icon">air</span>
+
+23.3
+PM
+2.5
+
+Good
+
+Sunrise & Sunset
+
+<span class="m-icon">clear_day</span>
+Sunrise
+6:30 AM
+
+<span class="m-icon">clear_night</span>
+Sunset
+5:54 PM
+
+Humidity
+<span class="m-icon">humidity_percentage</span>
+35%
+
+Pressure
+<span class="m-icon">airwave</span>
+1052hPa
+
+Visibility
+<span class="m-icon">visibility</span>
+10km
+
+Feels Like
+<span class="m-icon">thermostat</span>
+25&deg;c
+
+
+
+#---------- HOURLY FORECAST ----------#
+
+Today at
+
+03 PM
+25
+
+
+
+
+#---------- FORECAST ----------#
+
+5 Days Forecast
+
+alt = Overcast Clouds
+
+25
+
+17 Feb
+
+Friday
+
+
+
+#---------- HERO ----------#
+
+
+
+#---------- FOOTER ----------#
+
+Copyright 2024 codewithsadee. All right Reserved.
+
+Powered by
+https://openweathermap.org/api
+title = Free OpenWeather api
+
+
+
+#---------- ERROR 404 ----------#
+
+404
+Page not found!
+
+Go Home
