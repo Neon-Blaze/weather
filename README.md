@@ -59,4 +59,4 @@ Open with live server
 
 ## Support
 
-For support, Join my [Patreon Comunity](https://www.patreon.com/codewithsadee/membership) or Subscribe My [YouTube Channel](https://youtube.com/@codewithsadee).
+For support, Star this repo
