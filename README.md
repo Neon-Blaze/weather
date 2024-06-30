@@ -1,7 +1,7 @@
 
-# Project Title
+# Weatherio
 
-A brief description of what this project does and who it's for
+A weather application (Note: Default location is London)
 
 ## Tech Stack
 
@@ -13,9 +13,10 @@ Insert gif or link to demo
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Realtime weather 😍
+- All weather related details 💫
+- Easy to search ✨
+- Powered by [OpenWeather](https://openweathermap.org)
 
 ## Screenshots
 
@@ -50,7 +51,7 @@ Open with live server
 
 ## Authors
 
-- [@codewithsadee](https://www.github.com/codewithsadee)
+- [@Neon-Blaze](https://www.github.com/Neon-Blaze)
 
 ## License
 
