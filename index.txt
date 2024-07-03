@@ -1,5 +1,4 @@
 weatherio
-weatherio is a weather app made by codewithsadee
 
 
 
@@ -117,7 +116,7 @@ Friday
 
 #---------- FOOTER ----------#
 
-Copyright 2024 codewithsadee. All right Reserved.
+Copyright 2024 weatherio. All right Reserved.
 
 Powered by
 https://openweathermap.org/api
